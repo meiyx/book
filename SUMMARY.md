@@ -4,7 +4,7 @@
 
 # 常见的日常小知识点
 
-* [如何使用markdown](如何使用markdown.md)
+* [markdown](markdown.md)
 
 # redis
 
